@@ -1,4 +1,4 @@
-# IAM_Engineering
+# IAM Engineering
 Welcome to my repo! 
 
 
@@ -14,7 +14,7 @@ My current skills are 2+ years in automation testing backed by a B.S. in Compute
 - Languages and Databases: Scala, Python, SQL, Linux
 
 
-# My learning plan:
+# My Learning Plan:
 - IAM Core concepts
 - Identity Protocols
 - Scripting for IAM Automation
@@ -31,4 +31,6 @@ My current skills are 2+ years in automation testing backed by a B.S. in Compute
 - [Coming soon] AWS IAM Least Privilege Terraform Module
 - [Coming soon] IdentityOps Platform (Capstone)
 
+
+### Contact: petersen.siroun@gmail.com
 
