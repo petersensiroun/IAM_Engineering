@@ -7,7 +7,7 @@ I am building my expertise in Identity and Access Management including: automati
 
 My current skills are 2+ years in automation testing backed by a B.S. in Computer Science.
 
-##Skills: 
+## Skills: 
 - Automation Testing: Selenium WebDriver (Scala), Jenkins CI/CD, Git/GitHub
 - Manual & API Testing: Functional Testing Exploratory Testing, Regression Testing, E2E Testing, Smoke Testing, API Testing (Postman, JSON) 
 - Defect Management : Jira, Defect Tracking, Test Plan Creation
