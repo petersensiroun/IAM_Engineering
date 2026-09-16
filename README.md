@@ -15,7 +15,7 @@ My current skills are 2+ years in automation testing backed by a B.S. in Compute
 
 
 ## My Learning Plan:
-- IAM Core concepts
+- IAM Core Concepts
 - Identity Protocols
 - Scripting for IAM Automation
 - Cloud Security
