@@ -34,7 +34,7 @@ The binary 192.168.0.1  = <mark>11000000.10101000.00000000.00000001</mark> The s
 
    - Host identifies the device 
 
-## **Why do Subnets Matter for Cloud Access:** 
+## **Why Do Subnets Matter For Cloud Access:** 
 
 Subnets form foundational geographic and logical boundaries where network-level security controls and routing rules are enforced. 
 
